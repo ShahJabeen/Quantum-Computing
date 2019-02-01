@@ -1,0 +1,11 @@
+1. Create menu struct in main, with 4 options
+    1. Complex Number
+    2. Complex Vector
+    3. Complex Matrix
+    4. Quit
+
+2. Usage of scalars that complex matrices and complex vectors have. 
+    We can probably leave the scalar out of vector since we almost never
+    use it.
+
+3. Error checking and response
